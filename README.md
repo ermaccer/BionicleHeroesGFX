@@ -5,9 +5,9 @@ BionicleHeroesGFX is a plugin for Bionicle Heroes which allows you to:
 - Change scaling of Widescreen option
 
 ### Bloom
-![](https://raw.githubusercontent.com/ermaccer/BionicleHeroesGFX/img/bloom.png)
+![](https://raw.githubusercontent.com/ermaccer/BionicleHeroesGFX/master/img/bloom.png)
 ### Bloom Off
-![](https://raw.githubusercontent.com/ermaccer/BionicleHeroesGFX/img/bloomoff.png)
+![](https://raw.githubusercontent.com/ermaccer/BionicleHeroesGFX/master/img/bloomoff.png)
 
 You can configure these features in the .ini file.
 
